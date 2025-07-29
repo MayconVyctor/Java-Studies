@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Maratona-Java-DevDojo.iml" filepath="$PROJECT_DIR$/Maratona-Java-DevDojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../Atividades Jala/Programacao1-07/Mentoria 1 Programacao/Mentoria 1 Programacao.iml" filepath="$PROJECT_DIR$/../../../Atividades Jala/Programacao1-07/Mentoria 1 Programacao/Mentoria 1 Programacao.iml" />
     </modules>
   </component>
 </project>
